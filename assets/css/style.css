@@ -54,7 +54,8 @@ header nav ul li {
 }
 
 .hero {
-    height: 800px;
+    /*800px was too high to lead to content below*/
+    height: 500px;
     width: 100%;
     margin-bottom: 25px;
     /*unsure how to make an alt for this image*/
@@ -84,7 +85,6 @@ header nav ul li {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-    
     overflow: auto;
     clear: both;
 }
