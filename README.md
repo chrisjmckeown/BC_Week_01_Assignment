@@ -1,7 +1,7 @@
 # BC_Week_01_Assignment
 
 * [Description](#Description)
-* [01 HTML CSS Git: Code Refactor](#01-HTML-CSS-Git:-Code-Refactor)
+* [01 HTML CSS Git Code Refactor](#01-HTML-CSS-Git-Code-Refactor)
 * [User Story](#User-Story)
 * [Acceptance Criteria](#Acceptance-Criteria)
 
@@ -14,7 +14,7 @@ The task set (outlined in full below) was to utilize what we have learnt to date
 
 There were several semantic corrections to make, and rationalising of the CSS file, along with fixing page flow.
 
-## 01 HTML CSS Git: Code Refactor
+## 01 HTML CSS Git Code Refactor
 
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
 
@@ -32,7 +32,7 @@ I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 ```
 
-## Acceptance-Criteria
+## Acceptance Criteria
 
 ```
 GIVEN a webpage meets accessibility standards
