@@ -1,4 +1,4 @@
-
+/* styles for elements*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -18,6 +18,7 @@ p {
     font-size: 16px;
 }
 
+/* Header style guides*/
 header {
     overflow: auto;
     padding: 20px;
@@ -52,6 +53,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* Hero section style guide*/
 .hero {
     height: 500px;
     width: 100%;
@@ -61,6 +63,7 @@ header nav ul li {
     background-position: center;
 }
 
+/* Content section style guide, set to float left*/
 .content {
     width: 75%;
     display: inline-block;
@@ -92,6 +95,7 @@ header nav ul li {
     font-size: 36px;
 }
 
+/* Aside style guides, set to float right*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -119,6 +123,7 @@ header nav ul li {
     max-width: 150px;
 }
 
+/* Footer style guides, clears all floats above*/
 footer {
     padding: 30px;
     clear: both;
