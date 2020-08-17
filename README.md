@@ -1,4 +1,4 @@
-# BC_Week_01_Assignment
+# BC_Week_01_Code_Refactor
 
 * [Description](#Description)
 * [01 HTML CSS Git Code Refactor](#01-HTML-CSS-Git-Code-Refactor)
@@ -9,6 +9,9 @@
 ## Description
 * Assignment number one. 
 * Week number 1 of 24.
+* Please find link here: https://chrisjmckeown.github.io/BC_Week_01_Code_Refactor/
+
+<img src="assets/images/Website.jpg" alt="Code Refactor" width="600">
 
 The task set (outlined in full below) was to utilize what we have learnt to date with github, HTML, and CSS, by reviewing an HTML and CSS file and accompanying images. 
 
